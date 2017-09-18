@@ -29,5 +29,10 @@ Help && Communication
 
 ![avatar](iInjection逆向交流群群二维码.png)   
 
+libhookFile里面添加了JSPatch 热更新代码
+重签名工具还是可以玩一下 不过网上各种好用的重签名也有很多
+libhookFile就不要用他的了 git上有开源的还是自己去下载的好
+
+
 
 
